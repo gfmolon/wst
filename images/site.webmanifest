@@ -1,0 +1,21 @@
+{
+  "name": "Guilherme Molon",
+  "short_name": "Guilherme Molon",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/dgsadszgq/image/upload/v1781267156/android-chrome-192x192_psokzu.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://res.cloudinary.com/dgsadszgq/image/upload/v1781267156/android-chrome-512x512_bkbfsr.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#0a0a0a",
+  "background_color": "#0a0a0a",
+  "display": "standalone"
+}
